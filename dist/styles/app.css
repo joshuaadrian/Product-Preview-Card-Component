@@ -2087,12 +2087,12 @@ body:not(.home) .home-only {
   font-size: 14px;
   color: hsl(228deg, 12%, 48%);
   text-decoration: line-through;
-  margin: 0 0 0 30px;
+  margin: 0 0 0 20px;
 }
 .card button {
   background-color: hsl(158deg, 36%, 37%);
   color: #ffffff;
-  padding: 18px 30px;
+  padding: 16px 30px;
   text-align: center;
   border-radius: 8px;
   width: 100%;
