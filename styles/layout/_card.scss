@@ -80,7 +80,7 @@
 	&--price {
 		color:$blue-200;
 		display: flex;
-		justify-content: space-between;
+		justify-content: flex-start;
 		align-items:center;
 		flex-flow: row nowrap;
 		font-size: 32px;
@@ -94,13 +94,14 @@
 			font-size:14px;
 			color:$blue-300;
 			text-decoration: line-through;
+			margin:0 0 0 30px;
 		}
 	}
 
 	button {
 		background-color:$blue-200;
 		color:$white;
-		padding:15px 30px;
+		padding:18px 30px;
 		text-align: center;
 		border-radius: 8px;
 		width:100%;
